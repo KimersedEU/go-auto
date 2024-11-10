@@ -1,0 +1,52 @@
+.oribta {
+  display: flex;
+}
+
+.orbit {
+  max-width: 1076px;
+  display: flex;
+  padding-top: 193px;
+  padding-bottom: 194px;
+}
+
+@media (max-width: 1120px) {
+  .orbit {
+    max-width: 900px;
+  }
+}
+
+@media (max-width: 935px) {
+  .orbit {
+    max-width: 750px;
+  }
+}
+
+@media (max-width: 788px) {
+  .orbit {
+    max-width: 600px;
+  }
+}
+
+@media (max-width: 637px) {
+  .orbit {
+    max-width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  .orbit {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 437px) {
+  .orbit {
+    max-width: 300px;
+  }
+}
+
+@media (max-width: 350px) {
+  .orbit {
+    max-width: 250px;
+  }
+}
